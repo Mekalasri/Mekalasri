@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mekalasri
 - 👀 I’m interested in coding
 - 🌱 I'm currently learning java script
-- - 💞️ I’m looking to collaborate on FAANG
+-  💞️ I’m looking to collaborate on FAANG
 - 😄 Pronouns: Meks
-- ⚡ Fun fact: no brian
+- ⚡ Fun fact:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mekalasri?theme=light&font=M%20PLUS%201&ext=contest)
 
